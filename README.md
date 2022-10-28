@@ -111,6 +111,8 @@ $ git push
 | 23 | Mobile Price Prediction |  | [Click Here](https://www.kaggle.com/datasets/mohannapd/mobile-price-prediction) |
 | 24 | Cyberbullying Classification | [disuja7](https://github.com/disuja7) | [Click Here](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification) |
 | 25 | Electrical Fault Detection |  | [Click Here](https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification) |
+| 26 | Predicting Compressive Strength of Concrete |  | [Click Here](https://www.kaggle.com/datasets/gauravduttakiit/compressive-strength-of-concrete?select=training_set_label.csv) |
+| 27 | Twitter Sentiment Predictor |  | [Click Here](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?select=twitter_training.csv) |
 <br>
 
 ## Our Contributors  !! ✨
