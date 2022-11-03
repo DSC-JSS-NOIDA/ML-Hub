@@ -83,7 +83,7 @@ $ git push
 
 <br>
 
-## Project List 📝
+<!--## Project List 📝
 | Serial No. | Project Name | Contributor | Dataset Link |
 | :-: | :-: | :-: | :-: |
 | 01 | Breast Cancer Prediction | [Dekode1859](https://github.com/Dekode1859) | [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction) |
@@ -113,7 +113,7 @@ $ git push
 | 25 | Electrical Fault Detection |  | [Click Here](https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification) |
 | 26 | Predicting Compressive Strength of Concrete |  | [Click Here](https://www.kaggle.com/datasets/gauravduttakiit/compressive-strength-of-concrete?select=training_set_label.csv) |
 | 27 | Twitter Sentiment Predictor |  | [Click Here](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?select=twitter_training.csv) |
-<br>
+<br>-->
 
 ## Our Contributors  !! ✨
 ### Thanks to these wonderful people: ✨
